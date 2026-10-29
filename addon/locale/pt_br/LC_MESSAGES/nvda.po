@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZaraAxess by L-R Productions 1.0\n"
+"POT-Creation-Date: 2013-12-21 18:57-0300\n"
+"PO-Revision-Date: 2013-12-21 18:59-0300\n"
+"Last-Translator: Luan Richard <zaraaxess@luanmusical.com>\n"
+"Language-Team: L-R Productions <zaraaxess@luanmusical.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: c:\\poe\n"
+
+#: c:\poe/zararadio.py:45 c:\poe/zararadio.py:46
+msgid "Play list"
+msgstr "Lista de reprodução"
+
+#: c:\poe/zararadio.py:48
+msgid "Upcoming Events List"
+msgstr "Próximos eventos"
+
+#: c:\poe/zararadio.py:50
+msgid "Play mode"
+msgstr "Modo de reprodução"
+
+#: c:\poe/zararadio.py:52
+msgid "Selected jingle page"
+msgstr "Página de vinhetas selecionada"
+
+#: c:\poe/zararadio.py:54
+msgid "On the air - Now playing "
+msgstr "No ar - tocando agora"
+
+#: c:\poe/zararadio.py:56
+msgid "Next"
+msgstr "Próxima"
+
+#: c:\poe/zararadio.py:59
+msgid "File name"
+msgstr "Nome do arquivo"
+
+#: c:\poe/zararadio.py:61
+msgid "Expiration   of  satellite event"
+msgstr "Término do evento satélite"
+
+#: c:\poe/zararadio.py:63
+msgid "Folder name"
+msgstr "Nome da pasta"
+
+#: c:\poe/zararadio.py:65
+msgid "URL"
+msgstr "URL"
+
+#: c:\poe/zararadio.py:67
+msgid "Expiration of internet radio event"
+msgstr "Término do evento rádio da internet"
+
+#: c:\poe/zararadio.py:69
+msgid "Browse folder"
+msgstr "Procurar pasta"
+
+#: c:\poe/zararadio.py:71
+msgid "Browse file"
+msgstr "Procurar arquivo"
+
+#. translators: label for list of results.
+#: c:\poe/zararadio.py:74
+msgid "Results"
+msgstr "Resultados"
+
+#: c:\poe/zararadio.py:76
+msgid "Find"
+msgstr "Encontrar"
+
+#: c:\poe/zararadio.py:78
+msgid "Folder"
+msgstr "Pasta"
+
+#: c:\poe/zararadio.py:91
+msgid "Jingles"
+msgstr "Vinhetas"
+
+#: c:\poe/zararadio.py:93
+msgid "Find in folders"
+msgstr "Encontrar em pastas"
+
+#: c:\poe/zararadio.py:97 c:\poe/zararadio.py:1256
+msgid "Choose an item to activate"
+msgstr "Escolha um item para ativar"
+
+#: c:\poe/zararadio.py:101
+#, python-format
+msgid "%s toolbar"
+msgstr "Barra de ferramentas %s"
+
+#: c:\poe/zararadio.py:208
+msgid "Start time"
+msgstr "Hora de início"
+
+#: c:\poe/zararadio.py:211
+msgid "Start date"
+msgstr "Data de início"
+
+#: c:\poe/zararadio.py:223
+#, python-format
+msgid "List of jingles  %s page"
+msgstr "Lista de vinhetas da página %s"
+
+#: c:\poe/zararadio.py:358
+#, python-format
+msgid "%s disabled."
+msgstr "%s desativado"
+
+#: c:\poe/zararadio.py:608
+msgid "No items selected"
+msgstr "Não há itens selecionados"
+
+#: c:\poe/zararadio.py:624
+#, python-format
+msgid "Number of files sent to the clipboard: % d"
+msgstr "Números de arquivos enviados para a área de transferência: %d"
+
+#: c:\poe/zararadio.py:626
+msgid "There was an error getting the files path"
+msgstr "Houve um erro ao obter o caminho dos arquivos"
+
+#: c:\poe/zararadio.py:738
+msgid "Activate events"
+msgstr "Ativar eventos"
+
+#: c:\poe/zararadio.py:740
+msgid "Disable events"
+msgstr "Desativar eventos"
+
+#: c:\poe/zararadio.py:745
+msgid "events"
+msgstr "Eventos"
+
+#: c:\poe/zararadio.py:757
+msgid "Tracks"
+msgstr "Faixas"
+
+#: c:\poe/zararadio.py:757
+msgid "Mark the items you want to activate"
+msgstr "Marque os itens que deseja ativar"
+
+#: c:\poe/zararadio.py:871
+#, python-format
+msgid "%d jingles of %s page: "
+msgstr "%d vinhetas da página %s: "
+
+#: c:\poe/zararadio.py:876
+#, python-format
+msgid "Jingles were not registered to page % s"
+msgstr "Não há vinhetas cadastradas para a página %s"
+
+#: c:\poe/zararadio.py:897
+#, python-format
+msgid "Current track: %s"
+msgstr "Tocando agora: %s"
+
+#: c:\poe/zararadio.py:899
+msgid "There is no track playing"
+msgstr "Não há nenhuma faixa sendo reproduzida no momento"
+
+#: c:\poe/zararadio.py:908
+#, python-format
+msgid "Next track: %s"
+msgstr "Próxima faixa: %s"
+
+#: c:\poe/zararadio.py:910
+msgid "No next track"
+msgstr "Não há uma próxima faixa a ser reproduzida"
+
+#: c:\poe/zararadio.py:944
+msgid "Disabled"
+msgstr "Desativado"
+
+#: c:\poe/zararadio.py:944
+msgid "activated"
+msgstr "Ativado"
+
+#: c:\poe/zararadio.py:1093
+#, python-format
+msgid "Page %d of jingles is already selected"
+msgstr "A página de vinhetas %d já está selecionada."
+
+#: c:\poe/zararadio.py:1099
+#, python-format
+msgid "Page %d of jingles was selected"
+msgstr "A página de vinhetas %d foi selecionada"
+
+#: c:\poe/zararadio.py:1153
+msgid "Volume"
+msgstr "Volume"
+
+#: c:\poe/zararadio.py:1347
+msgid "not Checked"
+msgstr "Não marcado"
+
+#: c:\poe/zararadio.py:1347
+msgid "Checked"
+msgstr "Marcado"

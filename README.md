@@ -71,6 +71,10 @@ Na árvore de pastas, digitar uma letra leva ao próximo item que começa com el
 - **Espaço em "Outras horas"**: abre a janela de horários.
 - No grupo de tipos de eventos, as setas trocam o tipo e o Tab passa pelos campos dele.
 
+## Código-fonte
+
+O código do add-on está na pasta [addon](addon).
+
 ## Licença
 
 Veja [LICENSE](LICENSE).
