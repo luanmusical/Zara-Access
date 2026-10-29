@@ -2,6 +2,8 @@
 
 Add-on para o [NVDA](https://www.nvaccess.org/) que torna o **ZaraRadio** (programa de automação de rádio) totalmente utilizável com leitor de tela. Corrige o foco nas janelas do programa, faz o Tab passar por todos os controles e traz atalhos para as informações que importam durante a operação: faixa no ar, próxima faixa, tempo restante, vinhetas, eventos, players auxiliares, volume, temperatura e umidade.
 
+Funciona com qualquer tradução do ZaraRadio, ou com ele em inglês.
+
 Por L-R Productions.
 
 ## Download
