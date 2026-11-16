@@ -77,4 +77,4 @@ O código do add-on está na pasta [addon](addon).
 
 ## Licença
 
-Veja [LICENSE](LICENSE).
+GNU GPL versão 2 ou superior. Veja [LICENSE](LICENSE).
